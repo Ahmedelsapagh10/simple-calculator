@@ -1,16 +1,21 @@
 # calculator
 
-A new Flutter project.
+A new Flutter project for beginners.
 
-## Getting Started
+## Widgets and package
 
-This project is a starting point for a Flutter application.
+This app offers a user-friendly interface and allows you to perform basic mathematical operations like addition, subtraction, multiplication, and division with ease. 
 
-A few resources to get you started if this is your first Flutter project:
+# we will use 
+- gridview.builder widget
+- text widget
+- Inkwell widget
+- Container widget and make decoration 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- package : 
+-  math_expressions: ^2.4.0
+  
+# Muslim App :
+- https://www.youtube.com/watch?v=rOI2TTeKnn4
+# Calculator App :
+- https://www.youtube.com/watch?v=ODoquUbOXxw
